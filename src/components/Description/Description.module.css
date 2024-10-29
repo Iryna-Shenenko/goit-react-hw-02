@@ -6,8 +6,8 @@
 
 .title {
     display: flex;
-    align-items: flex-start;
-    color: black;
+    align-items: center;
+    padding-left: 20px;
 }
 
 .text {
